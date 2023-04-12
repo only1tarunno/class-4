@@ -85,4 +85,5 @@ body{
 }
 .banner1{
     background-image: url(../images/img3.jpg);
+    background-position: center center;
 }
